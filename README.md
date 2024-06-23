@@ -1,6 +1,6 @@
 # yoga_app
 
-A new Flutter project.
+This is a Yoga app made completely in flutter by me. This app is fully functional with dummy data & all the facilities.
 
 ## Getting Started
 
